@@ -1,2 +1,3 @@
-# Blog
-Mingchen's Blog
+### Mingchen 的博客
+
+随便搭的博客，偶尔来摸摸鱼~
